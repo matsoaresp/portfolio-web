@@ -159,7 +159,7 @@ export default function App() {
             <div className={`w-full aspect-square bg-zinc-900 border mb-4 overflow-hidden relative group transition-colors ${isOverclocked ? "border-orange-900/40" : "border-emerald-900/40"
               }`}>
               <img
-                src="/public/favicon.png"
+                src="/images/portfolio_image.jpeg"
                 alt="Perfil"
                 className={`w-full h-full object-cover transition-all duration-500 grayscale ${isOverclocked ? "group-hover:sepia" : "group-hover:grayscale-0"
                   }`}
