@@ -170,7 +170,7 @@ export default function App() {
             <h1 className={`text-2xl font-bold border-b pb-2 mb-3 ${isOverclocked ? "border-orange-900/40" : "border-emerald-900/40"
               }`}>MATEUS_SOARES.v1</h1>
             <p className="text-[15px] leading-relaxed opacity-70 mb-4 uppercase">
-              Desenvolvedor Fullstack focado em performance e escalabilidade, com experiência prática em APIs, automação e backend com Java e Node.js.
+              Desenvolvedor Fullstack focado em performance e escalabilidade, com experiência no desenvolvimento de APIs e sistemas backend utilizando Java, Spring Boot e Node.js, além de interfaces modernas no frontend com TypeScript e React.
             </p>
             <div className="flex gap-4">
               <a href="https://github.com/matsoaresp" target="_blank" rel="noopener noreferrer">
